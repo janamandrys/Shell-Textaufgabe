@@ -1,0 +1,2 @@
+# Skript für Lösung:
+
